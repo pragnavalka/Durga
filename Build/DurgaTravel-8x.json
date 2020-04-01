@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "DurgaFort",
+"dataUrl": "DurgaTravel-8x.data.unityweb",
+"asmCodeUrl": "DurgaTravel-8x.asm.code.unityweb",
+"asmMemoryUrl": "DurgaTravel-8x.asm.memory.unityweb",
+"asmFrameworkUrl": "DurgaTravel-8x.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
